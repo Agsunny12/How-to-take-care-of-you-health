@@ -1,0 +1,329 @@
+h1 {
+    text-align: center;
+    color: greenyellow;
+    text-decoration: underline;
+}
+
+
+#helth {
+    background: blue;
+    font-family: cursive;
+    font-size: 39px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#h2 {
+    color: yellow;
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 35px;
+    text-decoration: underline;
+
+
+}
+
+#h22 {
+    text-align: center;
+    color: brown;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+p {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#logo {
+    border-radius: 50%;
+    width: 100px;
+}
+
+#num {
+    color: hotpink;
+
+}
+
+#higen {
+    color: blueviolet;
+}
+
+#ba {
+    background-color: hotpink
+}
+
+#am {
+    background-color: yellow;
+}
+
+
+#higen {
+    text-align: center;
+}
+
+#hi {
+    background-color: peachpuff;
+}
+
+#hy {
+    font-size: 29px;
+    text-align: left;
+    font-family: cursive;
+    font-weight: bold;
+
+
+}
+
+#st {
+    text-align: center;
+    font-size: 29px;
+    font-family: cursive;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+#wa {
+    text-align: left;
+    font-size: 29px;
+    font-family: cursive;
+    font-weight: bold;
+
+}
+
+img {
+    width: 350px;
+}
+
+#higen {
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+h2 {
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 35px;
+    text-decoration: underline;
+    text-align: center
+}
+
+#hs {
+    background-color: palegoldenrod;
+}
+
+#p60 {
+    color: darkcyan;
+}
+
+body {
+    background-color: black;
+}
+
+#yoga {
+    background-color: firebrick;
+}
+
+#st {
+    color: dodgerblue;
+}
+
+.co {
+    color: firebrick;
+}
+
+#h4 {
+    font-size: 20px;
+    text-align: center;
+    color: greenyellow;
+    text-decoration: underline;
+}
+
+#iny {
+    color: aliceblue;
+    text-align: left;
+}
+
+#in {
+    color: aliceblue;
+    text-align: left;
+}
+
+#su {
+    color: aliceblue;
+}
+
+#suim {
+
+    left: auto;
+}
+
+#ben {
+    text-align: left;
+    font-size: 29px;
+    font-family: cursive;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+#be {
+    text-align: left;
+    font-size: 35px;
+    font-family: cursive;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+#do {
+    text-align: left;
+    font-size: 35px;
+    font-family: cursive;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+#dop {
+    text-align: left;
+    font-size: 29px;
+    font-family: cursive;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+#ben{
+    text-align: left;
+    font-size: 29px;
+    font-family: cursive;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+#be{
+    text-align: left;
+    font-size: 35px;
+    font-family: cursive;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+#yoga1{
+     text-align: center;
+    font-size: 35px;
+    font-family: cursive;
+    font-weight: bold;
+    color:yellow;
+    text-decoration: underline;
+}
+
+
+#sec{
+ background-color:turquoise;
+}
+
+#det{
+    text-align: left;
+}
+
+#health{
+    background-color:darkblue;
+}
+
+.menu{
+    position: fixed;
+    background:white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+
+.link{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+#det{
+   float:right;
+    width: 400px;
+    height: 300px;
+}
+
+#pr{
+    text-align: center;
+    font-size: 35px;
+    font-family: cursive;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+#pin{
+    text-align: left;
+    font-size: 35px;
+    font-family: cursive;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+#prin{
+    text-align: left;
+    font-size: 29px;
+    font-family: cursive;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+#pbe{
+    text-align: left;
+    font-size: 35px;
+    font-family: cursive;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+#bep{
+    text-align: left;
+    font-size: 29px;
+    font-family: cursive;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+#wa{
+    color: firebrick;
+}
+
+#gif{
+    width: 350px;
+    height: 250px;    
+}
+
+#jk{
+    color:darkorange;
+}
